@@ -1,8 +1,10 @@
 # Simple-Login-Register-Project-Using-MYSQL
 
-### Creat Environment
+### Creat and Activate Environment
 ```
 conda create -p venv python==3.9 -y
+
+conda activate venv/
 ```
 
 ### Install Requirements 
