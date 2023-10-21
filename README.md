@@ -11,3 +11,12 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+
+### Run Application
+
+```
+python application.py
+```
+```
+localhost:5000
+```
